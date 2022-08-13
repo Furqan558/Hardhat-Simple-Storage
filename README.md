@@ -10,7 +10,7 @@
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
+  <!-- - [Typescript](#typescript) -->
 - [Usage](#usage)
   - [Testing](#testing)
     - [Test Coverage](#test-coverage)
@@ -20,7 +20,7 @@
   - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
     - [Verify on etherscan](#verify-on-etherscan)
 - [Linting](#linting)
-- [Thank you!](#thank-you)
+<!-- - [Thank you!](#thank-you) -->
 
 <!-- This project is apart of the Hardhat FreeCodeCamp video.
 
